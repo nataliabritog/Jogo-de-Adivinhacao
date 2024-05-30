@@ -2,7 +2,7 @@
 Este é um jogo de adivinhação de palavras desenvolvido em HTML, CSS e JavaScript. O objetivo do jogo é ajudar o jogador a adivinhar a palavra com base nas pistas fornecidas. O jogo representa um autômato sensível ao contexto, reconhece palavras em português e foi projetado para ser jogado em um navegador.
 ## Tecnologias Utilizadas
 - **HTML:** Estrutura básica do jogo.
-- **CSS:** Estilos de interface do usuário
+- **CSS:** Estilos de interface do usuário.
 - **JavaScript:** Lógica do jogo e interatividade.
 ## Como Funciona
 Ao iniciar o jogo, um prompt será exibido ao jogador. Os jogadores devem tentar adivinhar a palavra correta com base nas pistas fornecidas. A palavra adivinhada é verificada e exibida em uma caixa na interface. Se o jogador adivinhar todas as palavras corretamente, uma mensagem de parabéns será exibida.
@@ -14,3 +14,8 @@ Ao iniciar o jogo, um prompt será exibido ao jogador. Os jogadores devem tentar
 5. **Todas as palavras:** Os jogadores devem adivinhar todas as palavras da lista para ganhar.
 6. **Tentativas ilimitadas:** Os jogadores podem tentar várias vezes até adivinhar todas as palavras corretamente.
 7. **Ortografia Correta:** As palavras devem ser escritas em português e com os acentos apropriados.
+## Integrantes do Grupo
+- **Natália Brito de Godoy**
+- **Mateus Ribeiro Rodrigues de Lima**
+- **Felipe Antunes Scheiner** 
+- **João Pedro Santos Cruz**  
