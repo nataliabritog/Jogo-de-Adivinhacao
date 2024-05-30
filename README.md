@@ -1,5 +1,5 @@
 # jogo-de-adivinhacao
-Este é um jogo de adivinhação de palavras desenvolvido em HTML, CSS e JavaScript. O objetivo do jogo é ajudar o jogador a adivinhar a palavra com base nas pistas fornecidas. O jogo reconhece palavras em português e foi projetado para ser jogado em um navegador.
+Este é um jogo de adivinhação de palavras desenvolvido em HTML, CSS e JavaScript. O objetivo do jogo é ajudar o jogador a adivinhar a palavra com base nas pistas fornecidas. O jogo representa um autômato sensível ao contexto, reconhece palavras em português e foi projetado para ser jogado em um navegador.
 ## Tecnologias Utilizadas
 - **HTML:** Estrutura básica do jogo.
 - **CSS:** Estilos de interface do usuário
