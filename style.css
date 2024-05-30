@@ -1,0 +1,101 @@
+/* Define as propriedades básicas para o elemento body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    
+    
+}
+/* Define o estilo do weapper */
+.wrapper{
+    width: 800px;
+    height: 700px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background:  #1e6c6f47;
+    border: 3px solid #ffffff7d;
+
+
+  }
+  /* Estilo para os cabeçalhos */
+  .wrapper h1{
+    font-size: 25px;
+    font-weight: 500;
+    padding: 20px 25px;
+    color: #ffffff;
+   margin-bottom: -3%;
+  }
+/* Estilo para as dicas */
+  .wrapper .dica{
+    font-size: 25px;
+    font-weight: 500;
+    padding: 20px 25px;
+    border-bottom: 1px solid #ffffff4a;
+    color: #ffffff;
+  }
+  /* Estilo para as respostas */
+  .wrapper .resposta{
+    height: 57px;
+    width: 300px;
+    margin: 25px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 10px;
+    background: none;
+    text-transform: uppercase;
+    border: 2px solid #ffffff;
+  }
+  /* Estilo para o botão de verificação  */
+  .wrapper .verbttn {
+    width: 50%;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    padding: 15px 0;
+    font-size: 20px;
+    border-radius: 5px;
+    background: #134647;
+    transition: all 0.3s ease;
+      
+}
+/* Define a margem superior dos quadrados */
+.squares {
+    margin-top: 20px;
+}
+/* Estilo para os quadrados */
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #00272d;
+    display: inline-block;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    transition: transform 0.5s ease;
+    border-radius: 5px;
+    color: #fff;
+    
+}
+/* Estilo para os quadrados rotacionados */
+.square.rotated {
+    transform: rotateY(180deg);
+}
+/* Estilo para a mensagem de quando termina de escrever todas as palavras*/
+.mensagem {
+  margin-top: 20px;
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+}
